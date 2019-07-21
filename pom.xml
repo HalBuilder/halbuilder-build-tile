@@ -10,7 +10,7 @@
 
   <groupId>com.theoryinpractise</groupId>
   <artifactId>halbuilder-build-tile</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <packaging>tile</packaging>
 
   <name>halbuilder-build-tile</name>
